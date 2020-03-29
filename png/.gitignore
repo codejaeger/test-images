@@ -1,0 +1,5 @@
+*.7z    -text -diff
+*.bz2   -text -diff
+*.gz    -text -diff
+*.tar   -text -diff
+*.zip   -text -diff
